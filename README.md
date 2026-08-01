@@ -1,2 +1,4 @@
-# cpp-bubble-sort-57
+# Cpp Bubble Sort 57
+
 Sorting lists via comparative elements in C++.
+
